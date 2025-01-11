@@ -13,4 +13,7 @@
 ![Screenshot 2025-01-07 200141](https://github.com/user-attachments/assets/9618fab5-3a55-45ae-822c-94a22a8d5869)
 
 ## RISC-V based lab screenshot 
+![riscv prg1](https://github.com/user-attachments/assets/abb2f63f-bcad-4c59-ab5e-d2e14a8e98ec)
+![riscv prg2](https://github.com/user-attachments/assets/26e783bd-d7ce-48b7-9650-b2471415ea67)
+
 
